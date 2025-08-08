@@ -1,2 +1,2 @@
 stopwords
-punkt_tabs
+punkt_tab
