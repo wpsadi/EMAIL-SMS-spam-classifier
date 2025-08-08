@@ -29,7 +29,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.debugpy",
-				"KevinRose.vsc-python-indent"
+				"KevinRose.vsc-python-indent",
+				"mechatroner.rainbow-csv"
 			]
 		}
 	}

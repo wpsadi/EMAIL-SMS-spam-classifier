@@ -1,2 +1,4 @@
 notebooks/data/spam.csv filter=lfs diff=lfs merge=lfs -text
 artifacts/*.* filter=lfs diff=lfs merge=lfs -text
+artifacts/model.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/vectorizer.pkl filter=lfs diff=lfs merge=lfs -text
